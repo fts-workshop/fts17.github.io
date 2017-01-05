@@ -20,7 +20,14 @@ Yves Robert, INRIA and University of Tennessee, Knoxville, USA
 <h3>Program Chairs </h3>
 
 Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
-Ana Gainaru, Mellanox Technologies, USA
+Ana Gainaru, Mellanox Technologies, USA<br>
+Sheng Di, Argonne National Laboratory, USA<br>
+Esteban Meneses, Costa Rica Institute of Technology, Costa Rica<br>
+Aurelien Bouteiller, University of Tennessee, Knoxville, USA<br>
+Kento Sato, Lawrence Livermore National Laboratory, USA<br>
+Wesley Bland, Intel Corporation, USA<br>
+Devesh Tiwari, Oak Ridge National Laboratory, USA<br>
+Guillaume Aupy, INRIA, France
 
 <h3>Web Chair </h3>
 
