@@ -18,23 +18,22 @@ Yves Robert, INRIA and University of Tennessee, Knoxville, USA
 
 <h3>Program Chairs </h3>
 
-Guillaume Aupy, INRIA, France<br>
-Wesley Bland, Intel Corporation, USA<br>
-George Bosilca, Innovative Computing Laboratory - University of Tennessee, USA<br>
-Aurelien Bouteiller, University of Tennessee, Knoxville, USA<br>
-Sheng Di, Argonne National Laboratory, USA<br>
-Wolfgang Frings, Juelich Supercomputing Centre, Germany<br>
 Ana Gainaru, Mellanox Technologies, USA<br>
 Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
-Esteban Meneses, Costa Rica Institute of Technology, Costa Rica<br>
-Kento Sato, Lawrence Livermore National Laboratory, USA<br>
-Devesh Tiwari, Oak Ridge National Laboratory, USA<br>
-
 
 <h3>Web Chair </h3>
 
 Burcu Mutlu, Barcelona Supercomputing Center, Spain
 
 <h3>Program Committee </h3>
- 
- TBD
+
+Guillaume Aupy, INRIA, France<br>
+Wesley Bland, Intel Corporation, USA<br>
+George Bosilca, Innovative Computing Laboratory - University of Tennessee, USA<br>
+Aurelien Bouteiller, University of Tennessee, Knoxville, USA<br>
+Sheng Di, Argonne National Laboratory, USA<br>
+Wolfgang Frings, Juelich Supercomputing Centre, Germany<br>
+Esteban Meneses, Costa Rica Institute of Technology, Costa Rica<br>
+Kento Sato, Lawrence Livermore National Laboratory, USA<br>
+Devesh Tiwari, Oak Ridge National Laboratory, USA<br>
+
