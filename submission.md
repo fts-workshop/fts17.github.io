@@ -14,18 +14,18 @@ Fault Tolerance is a cross-cutting issue that spans all layers of the hardware/s
 <h3>Topics Of Interest</h3>
 The focus areas for this workshop include, but are not limited to:
 
-- [Techniques for predicting, detecting, and correcting silent data corruption](#scope1)
-- [Hardware failure prediction and recovery techniques](#scope2)
-- [Novel hardware design for fault mitigation](#scope3)
-- [Programming interfaces and libraries to facilitate resilience](#scope4)
-- [Resilient algorithm design for application level fault tolerance](#scope5)
-- [Failure modeling and analysis](#scope6)
-- [Checkpoint/restart model and replication model](#scope7)
-- [Fault injection techniques for improved tool development](#scope8)
-- [Hardware and software fault detection and reporting systems](#scope9)
-- [Fault tolerance for coupled executions, workflows, and in situ data analytics](#scope10)
-- [Algorithms for performance optimization in the presence of faults](#scope11)
-- [Techniques and algorithms for rollback recovery](#scope12)
+- [Techniques for predicting, detecting, and correcting silent data corruption]
+- [Hardware failure prediction and recovery techniques]
+- [Novel hardware design for fault mitigation]
+- [Programming interfaces and libraries to facilitate resilience]
+- [Resilient algorithm design for application level fault tolerance]
+- [Failure modeling and analysis]
+- [Checkpoint/restart model and replication model]
+- [Fault injection techniques for improved tool development]
+- [Hardware and software fault detection and reporting systems]
+- [Fault tolerance for coupled executions, workflows, and in situ data analytics]
+- [Algorithms for performance optimization in the presence of faults]
+- [Techniques and algorithms for rollback recovery]
 
 <h3>Proceedings</h3>
 Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.
