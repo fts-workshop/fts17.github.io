@@ -11,6 +11,9 @@ header:
    permalink: "/"
 ---
 
+FTS 2017 is the 3th edition of the FTS workshop series, organized in conjunction with the 2017
+IEEE International Conference on Cluster Computing (Cluster 2017).
+
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the hardware/software stack, 
 and hence, requires coupled improvements in each layer and co-design between the different layers. 
@@ -19,5 +22,11 @@ layers and attendees to get a holistic view of fault tolerance techniques, espec
 focus on HPC and parallel computing. 
 
 
+Important Dates
 
-More information coming soon!
+* Paper abstract submission: June 22, 2017
+* Full papers due: July 2, 2017
+* Paper Acceptance Notification: July 20, 2017
+* Camera-ready deadline: July 27, 2017
+* Workshop: September 5, 2017
+
