@@ -31,11 +31,25 @@ The focus areas for this workshop include, but are not limited to:
 Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.
 
 <h3>Submission Instructions</h3>
-Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication. Submissions must be in PDF format and they should not exceed 8 pages (All inclusive). Authors with accepted papers may purchase additional up to 2 pages. Submissions must be single-spaced, 2-column numbered pages (8.5x11-inch paper, margins in inches -- top: 0.75, bottom: 1.0, sides:0.625, and between columns:0.25, main text: 10pt). Submissions are NOT double-blind. Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. Only web-based submissions are allowed. Please submit your paper via the submission system. Submissions will be judged based on relevance, significance, originality, correctness and clarity.
+* Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication. 
+* Submissions must be in PDF format.
+* Submissions are required to be within 8 pages (All inclusive). 
+* Authors with accepted papers may purchase additional up to 2 pages. 
+* Submissions must be single-spaced, 2-column pages in IEEE Xplore format. 
+* Submissions are NOT double-blind. 
+{% comment %}
+{% Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. %}
+{% endcomment %}
+* Only web-based submissions are allowed. 
+* Please submit your paper via the submission system. 
+* Submission Link : [https://easychair.org/conferences/?conf=fts2017](http://www.easychair.org/conferences/?conf=fts2017){:target="_blank"}.
+{% comment %}
+{% Submissions will be judged based on relevance, significance, originality, correctness and clarity. %}
+{% endcomment %}
 
 <h3>Important Dates</h3>
-Abstract Submission:   June 22nd, 2017<br>
-Paper Submission:      July 2nd, 2017<br>
-Author Notification:   July 20th, 2017<br>
-Camera Ready:          July 27th, 2017<br>
-Workshop Date:         September 5th, 2017<br>
+* Abstract Submission:   June 22nd, 2017<br>
+* Paper Submission:      July 2nd, 2017<br>
+* Author Notification:   July 20th, 2017<br>
+* Camera Ready:          July 27th, 2017<br>
+* Workshop Date:         September 5th, 2017<br>
