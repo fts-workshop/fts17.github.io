@@ -23,7 +23,6 @@ focus on HPC and parallel computing.
 
 
 Important Dates
-
 * Paper abstract submission: June 22, 2017
 * Full papers due: July 2, 2017
 * Paper Acceptance Notification: July 20, 2017
