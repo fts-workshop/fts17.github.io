@@ -37,12 +37,12 @@ Proceedings of this workshop will be published in CD format and will be availabl
 * Authors with accepted papers may purchase additional up to 2 pages. 
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format. 
 * Submissions are NOT double-blind. 
-{% comment %}
-{% Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. %}
-{% endcomment %}
 * Only web-based submissions are allowed. 
 * Please submit your paper via the submission system. 
 * Submission Link : [https://easychair.org/conferences/?conf=fts2017](http://www.easychair.org/conferences/?conf=fts2017){:target="_blank"}.
+{% comment %}
+{% Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. %}
+{% endcomment %}
 {% comment %}
 {% Submissions will be judged based on relevance, significance, originality, correctness and clarity. %}
 {% endcomment %}
