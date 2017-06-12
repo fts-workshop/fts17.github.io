@@ -28,7 +28,9 @@ The focus areas for this workshop include, but are not limited to:
 * Techniques and algorithms for rollback recovery
 
 <h3>Proceedings</h3>
-Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.
+Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.  
+
+**Extended versions of the best submissions will be published on a special issue of IJHPCA**
 
 <h3>Submission Instructions</h3>
 * Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication. 
