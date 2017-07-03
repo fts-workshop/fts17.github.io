@@ -41,6 +41,7 @@ Proceedings of this workshop will be published in CD format and will be availabl
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format. 
 * Submissions are NOT double-blind. 
 * Only web-based submissions are allowed. 
+* All submission deadlines are Anywhere on Earth
 * Please submit your paper via the submission system. 
 * Submission Link : [https://easychair.org/conferences/?conf=fts2017](http://www.easychair.org/conferences/?conf=fts2017){:target="_blank"}.
 {% comment %}
@@ -56,4 +57,4 @@ Proceedings of this workshop will be published in CD format and will be availabl
 * Author Notification:   July 20th, 2017<br>
 * Camera Ready:          July 27th, 2017<br>
 * Workshop Date:         September 5th, 2017<br>
-* All submission deadlines are Anywhere on Earth
+
