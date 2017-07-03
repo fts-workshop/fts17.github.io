@@ -28,5 +28,5 @@ Important Dates
 * Paper Acceptance Notification: July 20, 2017
 * Camera-ready deadline: July 27, 2017
 * Workshop: September 5, 2017
-* All submission deadlines are Anywhere on Earth
+
 
