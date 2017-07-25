@@ -54,7 +54,7 @@ Proceedings of this workshop will be published in CD format and will be availabl
 <h3>Important Dates</h3>
 * Abstract Submission:   ~~June 22nd, 2017~~ July 4, 2017 (Hard Deadline)<br>
 * Paper Submission:      ~~July 2nd, 2017~~ July 5, 2017 (Hard Deadline)<br>
-* Author Notification:   July 20th, 2017<br>
-* Camera Ready:          July 27th, 2017<br>
+* Author Notification:   July 24th, 2017<br>
+* Camera Ready:          July 31th, 2017<br>
 * Workshop Date:         September 5th, 2017<br>
 
