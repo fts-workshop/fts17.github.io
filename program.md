@@ -10,7 +10,7 @@ header:
 **08h30**: Welcome
 
 **08h40**: Keynote <br>
-   *"A few recent results and open problems for resilience at scale"* (Yves Roberts, INRIA)
+   *"A few recent results and open problems for resilience at scale"*  (Yves Roberts, INRIA)
   
 **09h15**: Assuming failure independence: are we right to be wrong?
 
