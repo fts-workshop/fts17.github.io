@@ -18,6 +18,10 @@
   url: "/submission/"
   side: left
 
+- title: Program
+  url: "/program/"
+  side: left
+
 #- title: "Dropdown Menu"
 #  url: "#"
 #  side: left
