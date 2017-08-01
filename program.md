@@ -7,9 +7,6 @@ header:
    permalink: "/program/"
 ---
 
-
-<h2>Program</h2>
-
 08h30: Welcome
 08h40: Keynote 
   "A few recent results and open problems for resilience at scale" (Yves Roberts, INRIA)
