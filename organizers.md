@@ -26,7 +26,6 @@ Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
 Guillaume Aupy, INRIA, France<br>
 Julien Bigot,	CEA - Maison de la Simulation, France <br>
 Wesley Bland, Intel Corporation, USA<br>
-George Bosilca, Innovative Computing Laboratory - University of Tennessee, USA<br>
 Aurelien Bouteiller, University of Tennessee, Knoxville, USA<br>
 Jed Brown, University of Colorado Boulder, USA <br>
 Sheng Di, Argonne National Laboratory, USA<br>
