@@ -3,10 +3,9 @@ layout: page
 title: "Organizers"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/organizers/"
 ---
-
 
 <h2>Organizing Committee</h2>
 
@@ -18,25 +17,9 @@ Yves Robert, INRIA and University of Tennessee, Knoxville, USA
 
 <h3>Program Chairs </h3>
 
-Ana Gainaru, Mellanox Technologies, USA<br>
-Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
+Bogdan Nicolae, Argonne National Laboratory, USA<br>
+Guillaume Aupy, INRIA, France
 
 <h3>Program Committee </h3>
 
-Guillaume Aupy, INRIA, France<br>
-Julien Bigot,	CEA - Maison de la Simulation, France <br>
-Wesley Bland, Intel Corporation, USA<br>
-Aurelien Bouteiller, University of Tennessee, Knoxville, USA<br>
-Jed Brown, University of Colorado Boulder, USA <br>
-Sheng Di, Argonne National Laboratory, USA<br>
-Wolfgang Frings, Juelich Supercomputing Centre, Germany<br>
-Esteban Meneses, Costa Rica Institute of Technology, Costa Rica<br>
-Thomas Ropars, Grenoble Alpes University, France<br>
-Kento Sato, Lawrence Livermore National Laboratory, USA<br>
-Devesh Tiwari, Oak Ridge National Laboratory, USA<br>
-Ferad	Zyulkyarov, Barcelona Supercomputing Center, Spain<br>
-
-<h3>Web Chair </h3>
-
-Burcu Mutlu, Barcelona Supercomputing Center, Spain
-
+TBD

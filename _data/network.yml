@@ -5,11 +5,15 @@
   class: "network"
   title: "Institute of Electrical and Electronics Engineers"
 
-- name: "IEEE Cluster 2017"
-  url: "https://cluster17.github.io/"
+- name: "IEEE Cluster 2018"
+  url: "https://cluster18.github.io/"
   class: "network"
-  title: "IEEE Cluster 2017"
+  title: "IEEE Cluster 2018"
 
+- name: "FTS Workshop 2017"
+  url: "https://fts17.github.io"
+  class: "network"
+  title: "FTS Workshop 2017"
 
 - name: "FTS Workshop 2016"
   url: "http://www.mcs.anl.gov/events/workshops/fts/2016/"

@@ -4,7 +4,7 @@ subheadline:
 title: "Submissions"
 teaser: 
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/submissions/"
 ---
 
@@ -30,7 +30,6 @@ The focus areas for this workshop include, but are not limited to:
 <h3>Proceedings</h3>
 Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.  
   
-  
 **Extended versions of the best submissions will be published on a special issue of IJHPCA**
 
 <h3>Submission Instructions</h3>
@@ -43,7 +42,7 @@ Proceedings of this workshop will be published in CD format and will be availabl
 * Only web-based submissions are allowed. 
 * All submission deadlines are Anywhere on Earth
 * Please submit your paper via the submission system. 
-* Submission Link : [https://easychair.org/conferences/?conf=fts2017](http://www.easychair.org/conferences/?conf=fts2017){:target="_blank"}.
+* Submission Link : [https://easychair.org/conferences/?conf=fts2018](http://www.easychair.org/conferences/?conf=fts2018){:target="_blank"}.
 {% comment %}
 {% Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. %}
 {% endcomment %}
@@ -52,9 +51,8 @@ Proceedings of this workshop will be published in CD format and will be availabl
 {% endcomment %}
 
 <h3>Important Dates</h3>
-* Abstract Submission:   ~~June 22nd, 2017~~ July 4, 2017 (Hard Deadline)<br>
-* Paper Submission:      ~~July 2nd, 2017~~ July 5, 2017 (Hard Deadline)<br>
-* Author Notification:   July 24th, 2017<br>
-* Camera Ready:          July 31th, 2017<br>
-* Workshop Date:         September 5th, 2017<br>
-
+* Abstract Submission:   TBD<br>
+* Paper Submission:      TBD<br>
+* Author Notification:   TBD<br>
+* Camera Ready:          TBD<br>
+* Workshop Date:         TBD<br>
