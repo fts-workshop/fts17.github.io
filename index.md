@@ -5,7 +5,7 @@ layout: page
 #
 
 title: "FTS 2018"
-teaser: "September 5th, 2017, Hawaii, USA."
+teaser: "September 5th, 2018, Belfast, UK."
 header:
    image_fullwidth: "belfast.jpg"
    permalink: "/"
