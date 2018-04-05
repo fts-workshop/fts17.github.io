@@ -27,15 +27,20 @@ The focus areas for this workshop include, but are not limited to:
 * Algorithms for performance optimization in the presence of faults
 * Techniques and algorithms for rollback recovery
 
+<h3>Paper Categories</h3>
+
+Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper.
+
 <h3>Proceedings</h3>
-Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). The accepted papers will be included in and indexed by the IEEE CS digital library.  
+Proceedings of this workshop will be published in CD format and will be available at the conference (together with the IEEE Cluster conference proceedings). 
+The accepted papers will be included in and indexed by the IEEE CS digital library.  
   
 **Extended versions of the best submissions will be published on a special issue of IJHPCA**
 
 <h3>Submission Instructions</h3>
-* Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication. 
+* Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication.
 * Submissions must be in PDF format.
-* Submissions are required to be within 8 pages (All inclusive). 
+* Submissions are required to be within 8 pages (all inclusive).
 * Authors with accepted papers may purchase additional up to 2 pages. 
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format. 
 * Submissions are NOT double-blind. 
@@ -43,16 +48,10 @@ Proceedings of this workshop will be published in CD format and will be availabl
 * All submission deadlines are Anywhere on Earth
 * Please submit your paper via the submission system. 
 * Submission Link : [https://easychair.org/conferences/?conf=fts2018](http://www.easychair.org/conferences/?conf=fts2018){:target="_blank"}.
-{% comment %}
-{% Author information should be included on the submission and will be visible to the reviewers. LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"}. %}
-{% endcomment %}
-{% comment %}
-{% Submissions will be judged based on relevance, significance, originality, correctness and clarity. %}
-{% endcomment %}
 
 <h3>Important Dates</h3>
-* Abstract Submission:   TBD<br>
-* Paper Submission:      TBD<br>
-* Author Notification:   TBD<br>
-* Camera Ready:          TBD<br>
-* Workshop Date:         TBD<br>
+* Abstract Submission:   Jun 14th, 2018<br>
+* Paper Submission:      Jun 21st, 2018<br>
+* Author Notification:   Jul 20th, 2018<br>
+* Camera Ready:          Jul 31st, 2018<br>
+* Workshop Date:         Sept 10th, 2018<br>

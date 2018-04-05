@@ -5,7 +5,7 @@ layout: page
 #
 
 title: "FTS 2018"
-teaser: "September 5th, 2018, Belfast, UK."
+teaser: "September 10th, 2018, Belfast, UK"
 header:
    image_fullwidth: "belfast.jpg"
    permalink: "/"
@@ -22,10 +22,8 @@ focus on HPC and parallel computing.
 
 
 Important Dates
-* Paper abstract submission: TBD
-* Full papers due: TBD
-* Paper Acceptance Notification: TBD
-* Camera-ready deadline: TBD
-* Workshop: TBD
-
-
+* Paper abstract submission: Jun 14th, 2018
+* Full papers due: Jun 21st, 2018
+* Paper Acceptance Notification: Jul 20th, 2018
+* Camera-ready deadline: Jul 31st, 2018
+* Workshop: Sept 10th, 2018
