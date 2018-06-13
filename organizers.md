@@ -20,14 +20,14 @@ Guillaume Aupy, INRIA
 
 <h3>Program Committee </h3>
 
-Aurelien Bouteiller, University of Tennessee Knoxville
-Wesley Bland, Intel
-Thomas Ropars, Grenoble-Alpes University
-Wolfgang Frings, Juelich Supercomputing Centre
-Amina Guermouche, Telecom Sud-Paris
-Julien Bigot, CEA, Maison de la Simulation
-Esteban Meneses, Costa Rica Supercomputing Center
-Leonardo Arturo Bautista Gomez, Barcelona Supercomputing Center
-Fanny Dufossé, fanny.dufosse@inria.fr
-Franck Cappello, Argonne National Laboratory and University of Illinois at Urbana Champaign
+Aurelien Bouteiller, University of Tennessee Knoxville<br>
+Wesley Bland, Intel<br>
+Thomas Ropars, Grenoble-Alpes University<br>
+Wolfgang Frings, Juelich Supercomputing Centre<br>
+Amina Guermouche, Telecom Sud-Paris<br>
+Julien Bigot, CEA, Maison de la Simulation<br>
+Esteban Meneses, Costa Rica Supercomputing Center<br>
+Leonardo Arturo Bautista Gomez, Barcelona Supercomputing Center<br>
+Fanny Dufossé, INRIA<br>
+Franck Cappello, Argonne National Laboratory and University of Illinois at Urbana Champaign<br>
 Dorian Arnold, Emory University
