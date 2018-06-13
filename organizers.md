@@ -29,5 +29,5 @@ Julien Bigot, CEA, Maison de la Simulation<br>
 Esteban Meneses, Costa Rica Supercomputing Center<br>
 Leonardo Arturo Bautista Gomez, Barcelona Supercomputing Center<br>
 Fanny Dufossé, INRIA<br>
-Franck Cappello, Argonne National Laboratory and University of Illinois at Urbana Champaign<br>
+Franck Cappello, Argonne National Laboratory<br>
 Dorian Arnold, Emory University

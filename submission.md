@@ -50,8 +50,8 @@ The accepted papers will be included in and indexed by the IEEE CS digital libra
 * Submission Link : [https://easychair.org/conferences/?conf=fts18](https://easychair.org/conferences/?conf=fts18){:target="_blank"}.
 
 <h3>Important Dates</h3>
-* Abstract Submission:   <s><span style="color:red">Jun 14th, 2018</span></s>Jun 21th, 2018<br>
-* Paper Submission:      <s><span style="color:red">Jun 20th, 2018</span></s>Jun 27th, 2018<br>
+* Abstract Submission:   <s><span style="color:red">Jun 14th, 2018</span></s> Jun 21th, 2018<br>
+* Paper Submission:      <s><span style="color:red">Jun 20th, 2018</span></s> Jun 27th, 2018<br>
 * Author Notification:   Jul 20th, 2018<br>
 * Camera Ready:          Jul 31st, 2018<br>
 * Workshop Date:         Sept 10th, 2018<br>
