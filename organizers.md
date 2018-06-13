@@ -7,19 +7,27 @@ header:
    permalink: "/organizers/"
 ---
 
-<h2>Organizing Committee</h2>
-
 <h3>Steering Committee </h3>
-Pavan Balaji, Argonne National Laboratory, USA<br>
-Franck Cappello, Argonne National Laboratory, USA<br>
-Mattan Erez, University of Texas, Austin, USA<br>
-Yves Robert, INRIA and University of Tennessee, Knoxville, USA
+Pavan Balaji, Argonne National Laboratory<br>
+Franck Cappello, Argonne National Laboratory<br>
+Mattan Erez, University of Texas, Austin<br>
+Yves Robert, INRIA and University of Tennessee, Knoxville
 
 <h3>Program Chairs </h3>
 
-Bogdan Nicolae, Argonne National Laboratory, USA<br>
-Guillaume Aupy, INRIA, France
+Bogdan Nicolae, Argonne National Laboratory<br>
+Guillaume Aupy, INRIA
 
 <h3>Program Committee </h3>
 
-TBD
+Aurelien Bouteiller, University of Tennessee Knoxville
+Wesley Bland, Intel
+Thomas Ropars, Grenoble-Alpes University
+Wolfgang Frings, Juelich Supercomputing Centre
+Amina Guermouche, Telecom Sud-Paris
+Julien Bigot, CEA, Maison de la Simulation
+Esteban Meneses, Costa Rica Supercomputing Center
+Leonardo Arturo Bautista Gomez, Barcelona Supercomputing Center
+Fanny Dufossé, fanny.dufosse@inria.fr
+Franck Cappello, Argonne National Laboratory and University of Illinois at Urbana Champaign
+Dorian Arnold, Emory University
