@@ -30,4 +30,5 @@ Esteban Meneses, Costa Rica Supercomputing Center<br>
 Leonardo Arturo Bautista Gomez, Barcelona Supercomputing Center<br>
 Fanny Dufossé, INRIA<br>
 Franck Cappello, Argonne National Laboratory<br>
-Dorian Arnold, Emory University
+Dorian Arnold, Emory University<br>
+Dingwen Tao, University of California, Riverside
