@@ -22,8 +22,7 @@ focus on HPC and parallel computing.
 
 
 Important Dates
-* Abstract Submission:   <s><span style="color:red">Jun 14th, 2018</span></s> Jun 21th, 2018<br>
-* Paper Submission:      <s><span style="color:red">Jun 20th, 2018</span></s> Jun 27th, 2018<br>
+* Paper Submission:      <s><span style="color:red">Jun 27th, 2018</span></s> Jul 10th, 2018<br>
 * Paper Acceptance Notification: Jul 20th, 2018
 * Camera-ready deadline: Jul 31st, 2018
 * Workshop: Sept 10th, 2018
