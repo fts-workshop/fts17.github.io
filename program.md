@@ -7,4 +7,29 @@ header:
    permalink: "/program/"
 ---
 
-TBD
+<h3>Schedule</h3>
+
+**09h00**: Welcome
+
+**09h15**: Keynote: Resilience For Extreme Scale Systems: From Root Causes to Solutions (Christian Engelmann, Oak Ridge National Laboratory, USA)
+
+**10h30**: Coffee Break
+
+**11h00**: A Failure Prediction-based Adaptive Checkpointing Method with Less Reliance on Temperature Monitoring for HPC Applications (Muhammad Alfian Amrizal, Pei Li, Mulya Agung, Ryusuke Egawa and Hiroyuki Takizawa)
+
+**11h35**: Challenges in Developing MPI Fault-Tolerant Fortran Applications (Nathan Weeks, Glenn Luecke, Pieter Maris and James Vary)
+
+**12h10**: Closing
+
+**12h15**: End
+
+<h3>Keynote details</h3>
+Resilience is one of the critical challenges of extreme-scale high-performance computing (HPC) systems. 
+This talk provides an overview of two different projects addressing these issues, the Catalog project and the 
+Resilience Design Pattern project. The Catalog project develops a fault taxonomy, catalog and models that capture 
+the observed and inferred conditions in current supercomputers and extrapolates this knowledge to future-generation 
+systems. To date, this project has analyzed billions of node hours of system logs from supercomputers at Oak Ridge 
+National Laboratory and Argonne National Laboratory. The Resilience Design Pattern project offers a structured 
+approach to the design, evaluation and optimization of HPC resilience using the concept of design patterns. 
+It identifies the problems caused by faults, errors and failures in HPC systems and the techniques used to deal with 
+these events.
