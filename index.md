@@ -11,6 +11,8 @@ header:
    permalink: "/"
 ---
 
+<span style="color:red">Program is now available!</span>
+
 FTS 2018 is the 4th edition of the FTS workshop series, organized in conjunction with the 2018
 IEEE International Conference on Cluster Computing (Cluster 2018).
 
