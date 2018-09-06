@@ -11,7 +11,7 @@ header:
 
 **09h00**: Welcome
 
-**09h15**: Keynote: Resilience For Extreme Scale Systems: From Root Causes to Solutions (Christian Engelmann, Oak Ridge National Laboratory, USA)
+**09h15**: Keynote: How Do We Move Practical Fault Tolerance Out of the 1990s? (Jay Lofstead, Sandia National Laboratories, USA)
 
 **10h30**: Coffee Break
 
@@ -24,15 +24,7 @@ header:
 **12h15**: End
 
 <h3>Keynote details</h3>
-Resilience is one of the critical challenges of extreme-scale high-performance computing (HPC) systems. 
-This talk provides an overview of two different projects addressing these issues, the Catalog project and the 
-Resilience Design Pattern project. The Catalog project develops a fault taxonomy, catalog and models that capture 
-the observed and inferred conditions in current supercomputers and extrapolates this knowledge to future-generation 
-systems. To date, this project has analyzed billions of node hours of system logs from supercomputers at Oak Ridge 
-National Laboratory and Argonne National Laboratory. The Resilience Design Pattern project offers a structured 
-approach to the design, evaluation and optimization of HPC resilience using the concept of design patterns. 
-It identifies the problems caused by faults, errors and failures in HPC systems and the techniques used to deal with 
-these events.
+With storage innovations delivering near memory performance and a continued requirement that new leadership platforms achieve a 90% forward progress per hour metric, checkpoint/restart has become the tried and true standard for achieving fault tolerance. While tons of innovative work has demonstrated interesting and different approaches that can reduce the time to save data, none have gained traction in production codes. Since checkpoint data is still used for analysis, is it even possible to move away from this technique to something "better"?
 
 <h3>Paper details</h3>
 
